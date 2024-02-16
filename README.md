@@ -64,8 +64,6 @@ Este repositorio documenta mi participación en el desafío "100 Days of CSS", d
    - Yes, you can actually drag and drop a file in there. But don't worry, the upload process is faked.
    - [Demo](enlace_a_la_demo)
 
-
-
 ## Cómo Ejecutar los Proyectos Locales
 
 Si deseas ejecutar alguno de estos proyectos en tu máquina local, sigue estos pasos:
